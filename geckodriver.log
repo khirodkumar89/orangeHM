@@ -1,0 +1,107 @@
+1563788309504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\khirod\\AppData\\Local\\Temp\\rust_mozprofile.dJissu3dYy8g"
+1563788311832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563788311832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563788311832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563788311833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563788316111	Marionette	INFO	Listening on port 55773
+1563788316150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563788326123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:17879
+ajax@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:15044
+domManip/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2470
+each@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:11776
+domManip@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2441
+append@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:3:32408
+html/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:1283
+access@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:13266
+html@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:876
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:991:36
+o@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:14733
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:15502
+w@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:12472
+d@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:18318
+1563788331617	Marionette	INFO	Stopped listening on port 55773
+[Parent 2644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_w[iChild 8088, Chromen.cc, line 341_ChildThread] WARNING: pipe error: 109: file z:/task_1
+560988207/bu[ild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 80[Parent 2644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1563788351107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\khirod\\AppData\\Local\\Temp\\rust_mozprofile.Fpe8vQZl1uVm"
+1563788351932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563788351932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563788351932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563788351932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563788354763	Marionette	INFO	Listening on port 55883
+1563788354994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563788365665	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:17879
+ajax@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:15044
+domManip/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2470
+each@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:11776
+domManip@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2441
+append@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:3:32408
+html/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:1283
+access@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:13266
+html@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:876
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:998:36
+o@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:14733
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:15502
+w@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:12472
+d@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:18318
+1563788371163	Marionette	INFO	Stopped listening on port 55883
+[Parent 16744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9224, Chrome_Chi[Child 13368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13368, Chrome_ChildThr[Parent 16744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1563788405025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\khirod\\AppData\\Local\\Temp\\rust_mozprofile.pz2UBWNzVjCv"
+1563788405878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563788405879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1563788405879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563788405879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563788408415	Marionette	INFO	Listening on port 56014
+1563788408893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563788420234	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+send@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:17879
+ajax@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:15044
+domManip/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2470
+each@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:11776
+domManip@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:2441
+append@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:3:32408
+html/<@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:1283
+access@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:13266
+html@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:876
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:998:36
+o@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:14733
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:2:15502
+w@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:12472
+d@https://opensource-demo.orangehrmlive.com/webres_5cfea87b4387f2.35910947/js/jquery/jquery-1.7.2.min.js:4:18318
+1563788435847	Marionette	INFO	Stopped listening on port 56014
+[Parent 9576, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 149[Parent 9576, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 68[Parent 9576, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
